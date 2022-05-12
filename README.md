@@ -2,7 +2,7 @@
 
 I'm Patrick.
 
-- 🔭 I’m currently working on a [Wordle Helper](https://github.com/paddyredbeard/wordle-helper), just for fun.
+- 🔭 I’m currently working on a [Wordle Helper](https://github.com/paddyredbeard/wordle-helper), just for kicks.
 - ⚡ Fun fact: I like bikes 🚲. And tacos 🌮.
 
 <!--
