@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 I'm Patrick. This is my personal account for pet projects.
-
 Some things I'm working on:
 
-- 🌕 A [JSON version of the Apollo 13 Air-to-Ground technical transcript](https://github.com/paddyredbeard/apollo-13-json)
+- 🌜 A [JSON version of the Apollo 13 Air-to-Ground technical transcript](https://github.com/paddyredbeard/apollo-13-json)
 - 🇼  A [Wordle Helper](https://github.com/paddyredbeard/wordle-helper),app, just for kicks.
 
-⚡ Fun fact: I like bikes 🚲. And tacos 🌮.
+I like bikes 🚲.
+And tacos 🌮.
 
 <!--
 **paddyredbeard/paddyredbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
