@@ -3,10 +3,12 @@
 I'm Patrick. This is my personal account for pet projects.
 Some things I'm working on:
 
-🌜 A [JSON version of the Apollo 13 Air-to-Ground technical transcript](https://github.com/paddyredbeard/apollo-13-json)  
-🇼  A [Wordle Helper](https://github.com/paddyredbeard/wordle-helper) app, just for kicks  
+> 🌜 A [JSON version of the Apollo 13 Air-to-Ground technical transcript](https://github.com/paddyredbeard/apollo-13-json)  
+>
+> 🇼  A [Wordle Helper](https://github.com/paddyredbeard/wordle-helper) app, just for kicks  
 
 I like bikes 🚲.
+
 And tacos 🌮.
 
 <!--
