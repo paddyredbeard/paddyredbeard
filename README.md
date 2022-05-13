@@ -4,7 +4,7 @@ I'm Patrick. This is my personal account for pet projects.
 Some things I'm working on:
 
 1. 🌜 A [JSON version of the Apollo 13 Air-to-Ground technical transcript](https://github.com/paddyredbeard/apollo-13-json)
-2. 🇼  A [Wordle Helper](https://github.com/paddyredbeard/wordle-helper) app, just for kics
+2. 🇼  A [Wordle Helper](https://github.com/paddyredbeard/wordle-helper) app, just for kicks
 
 ### I like
 
