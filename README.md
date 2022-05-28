@@ -11,7 +11,7 @@ Some things I'm working on:
 - Bikes 🚲
 - Tacos 🌮
 
-Find me on [dev.to](https://dev.to/paddyredbeard)
+Find me on [dev.to](https://dev.to/paddyredbeard) or checkout my [work account](https://github.com/pbarabe/)
 
 <!--
 **paddyredbeard/paddyredbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
