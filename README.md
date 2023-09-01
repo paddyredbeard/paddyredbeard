@@ -2,10 +2,11 @@
 
 I'm Patrick. This is my personal account for pet projects.  
 
-## Some things I'm working on:
+## Recent pursuits:
 
-1. 🌜 A [JSON version of the Apollo 13 Air-to-Ground technical transcript](https://github.com/paddyredbeard/apollo-13-json)
-2. 🇼  A [Wordle Helper](https://github.com/paddyredbeard/wordle-helper) app, just for kicks
+1. 🇼 A [Wordle Helper](https://github.com/paddyredbeard/wordle-helper) app, just for kicks
+2. ☁️ Serverless apps and functions
+3. 🐧 Exploring different Linux distros
 
 ## I like
 
